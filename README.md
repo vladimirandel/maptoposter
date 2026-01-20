@@ -26,14 +26,13 @@ You can also instead of city find a street.
 
 Update Python and pip.
 
-Create venv and activated it:
+**Create venv and activate it:**
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
 ```
 
-Install requiriments
-
+**Install requirements**
 ```bash
 pip install -r requirements.txt
 ```
