@@ -1,3 +1,43 @@
 cache/*
+
+# Virtuální prostředí
+.venv/
+venv/
 env/
-.env/
+ENV/
+
+# Python mezipaměť a kompilované soubory
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribuce / Balíčky
+bin/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+
+# Konfigurace editorů
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Citlivá data a proměnné prostředí
+.env
+.venv
+*.log
+
+# Ostatní
+.DS_Store
