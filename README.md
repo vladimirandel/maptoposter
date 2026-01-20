@@ -98,6 +98,7 @@ python create_map_poster.py --list-themes
 
 | Distance     | Best for                                           |
 | ------------ | -------------------------------------------------- |
+| 500-1000m    | Streets                                            |
 | 4000-6000m   | Small/dense cities (Venice, Amsterdam center)      |
 | 8000-12000m  | Medium cities, focused downtown (Paris, Barcelona) |
 | 15000-20000m | Large metros, full city view (Tokyo, Mumbai)       |
